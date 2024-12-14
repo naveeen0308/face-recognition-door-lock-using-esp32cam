@@ -51,7 +51,7 @@ In the web tool, the following information is displayed:
 ## ⚙️ How to Setup the Project
 1. **Clone the repository**:
    ```bash
-   [git clone <repository-link>](https://github.com/naveeen0308/face-recognition-door-lock-using-esp32cam.git)
+   git clone https://github.com/naveeen0308/face-recognition-door-lock-using-esp32cam.git
    ```
 2. **Program the ESP32 CAM**:
    - Use the code provided in the `esp32-code` folder to program the ESP32 CAM.
@@ -63,6 +63,11 @@ In the web tool, the following information is displayed:
    - Ensure you provide the correct Wi-Fi name and password in the ESP32 CAM code.
 
 That's it! 🎉 Your face recognition door lock is ready to use.
+
+---
+
+## 📚 Related Research
+This project is supported by our research work published in IEEE Xplore. You can access the paper here: [Face Recognition Door Lock Using ESP32](https://ieeexplore.ieee.org/document/10776900).
 
 ---
 
