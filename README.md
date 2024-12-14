@@ -51,7 +51,7 @@ In the web tool, the following information is displayed:
 ## ⚙️ How to Setup the Project
 1. **Clone the repository**:
    ```bash
-   git clone <repository-link>
+   [git clone <repository-link>](https://github.com/naveeen0308/face-recognition-door-lock-using-esp32cam.git)
    ```
 2. **Program the ESP32 CAM**:
    - Use the code provided in the `esp32-code` folder to program the ESP32 CAM.
