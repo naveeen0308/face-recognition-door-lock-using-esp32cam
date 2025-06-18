@@ -73,3 +73,9 @@ This project is supported by our research work published in IEEE Xplore. You can
 
 ## 📝 License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Contributors :
+1. NAVEEN.S
+2. P.MUHAMMADHU NAZAR ALI.
+3. DHINESH.P
+4. SRITHIKAN.S
